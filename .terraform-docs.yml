@@ -1,0 +1,12 @@
+formatter: markdown
+output:
+  file: "README.md"
+  mode: append
+settings:
+  sections:
+    hide:
+      - ""
+  sort:
+    enabled: true
+    criteria:
+      - names

@@ -1,0 +1,11 @@
+environments/dev/terraform.tfstate
+environments/dev/terraform.tfstate.backup
+environments/dev/.terraform/*
+environments/dev/.terraform
+modules/lambda_secret_rotate/src/rotate_secrets.py.zip
+
+environments/prod/terraform.tfstate
+environments/prod/terraform.tfstate.backup
+environments/prod/.terraform/*
+environments/prod/.terraform
+.DS_Store
